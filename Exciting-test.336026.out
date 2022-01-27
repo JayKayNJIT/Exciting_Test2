@@ -1,0 +1,28 @@
+Starting /home/j/jk435/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/j/jk435 is not in AFS -- skipping quota check
+========================
+
+On host node435 :
+	 02:49:12 up 167 days, 10:22,  0 users,  load average: 0.00, 0.23, 0.30
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_100786)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/j/jk435/.modules" to customize.
+
+No modules loaded
+
+Currently Loaded Modules:
+  1) intel/19.1.0.166   2) exciting_smp/20210707
+
+ 
+
+ 
+Error(connect): np < nv :       10      15
+ 
+   Elapsed time = 0m13s
